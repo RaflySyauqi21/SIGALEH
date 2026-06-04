@@ -1,0 +1,36 @@
+export const commodities = [
+  "Bawang Merah",
+  "Bawang Merah Ukuran Sedang",
+  "Bawang Putih",
+  "Bawang Putih Ukuran Sedang",
+  "Beras",
+  "Beras Kualitas Bawah I",
+  "Beras Kualitas Bawah II",
+  "Beras Kualitas Medium I",
+  "Beras Kualitas Medium II",
+  "Beras Kualitas Super I",
+  "Beras Kualitas Super II",
+  "Cabai Merah",
+  "Cabai Merah Keriting",
+  "Cabai Rawit",
+  "Cabai Rawit Hijau",
+  "Daging Ayam",
+  "Daging Ayam Ras Segar",
+  "Daging Sapi",
+  "Daging Sapi Kualitas 1",
+  "Daging Sapi Kualitas 2",
+  "Gula Pasir",
+  "Gula Pasir Kualitas Premium",
+  "Gula Pasir Lokal",
+  "Minyak Goreng",
+  "Minyak Goreng Curah",
+  "Minyak Goreng Kemasan Bermerk 1",
+  "Minyak Goreng Kemasan Bermerk 2",
+  "Telur Ayam",
+  "Telur Ayam Ras Segar"
+];
+
+export const cities = [
+  "Padang",
+  "Bukittinggi",
+];
